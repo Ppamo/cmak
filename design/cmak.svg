@@ -16,7 +16,10 @@
    id="svg4752"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cmak.svg">
+   sodipodi:docname="cmak.svg"
+   inkscape:export-filename="/home/develop/github/cmak/design/cmak.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4754" />
   <sodipodi:namedview
@@ -27,10 +30,10 @@
      inkscape:pageopacity="0.03921569"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="745.58423"
-     inkscape:cy="305.68625"
+     inkscape:cx="620.90316"
+     inkscape:cy="305.3986"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer7"
      showgrid="false"
      units="px"
      showguides="true"
@@ -59,6 +62,13 @@
      transform="translate(0,-332.36216)"
      style="display:inline"
      sodipodi:insensitive="true">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5241"
+       width="1280"
+       height="720"
+       x="0"
+       y="332.36215" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5300"
@@ -181,7 +191,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Slide Show"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <image
        sodipodi:absref="/home/develop/github/cmak/galleries/trees/main-135x90.jpg"
        y="643.4519"
@@ -334,6 +345,95 @@
        preserveAspectRatio="none"
        height="90"
        width="135" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Gallery View"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5279"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1000%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5281"><rect
+           id="rect5283"
+           width="148"
+           height="22"
+           x="909"
+           y="9" /></flowRegion><flowPara
+         id="flowPara5285">Volver</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66456604px;line-height:1000%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:1.4148711px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#818181;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1301.2001"
+       y="22.390985"
+       id="text5287"
+       sodipodi:linespacing="1000%"
+       transform="scale(0.75874849,1.3179598)"><tspan
+         sodipodi:role="line"
+         id="tspan5299"
+         x="1301.2001"
+         y="22.390985">volver</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Gallery Text"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#050505;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5244"
+       width="900"
+       height="600"
+       x="189.27699"
+       y="41.238998" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5246"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1000%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5248"><rect
+           id="rect5250"
+           width="869"
+           height="569"
+           x="202"
+           y="52" /></flowRegion><flowPara
+         id="flowPara5252"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5254"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:1px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1,0,0,2.9499007,-143.59521,-54.10485)"><flowRegion
+         id="flowRegion5256"><rect
+           id="rect5258"
+           width="853"
+           height="500"
+           x="364"
+           y="73"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5260"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:150%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5262"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1000%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:1px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5264"><rect
+           id="rect5266"
+           width="794"
+           height="58"
+           x="235"
+           y="55"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:1000%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5268">Titulo de la galería</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.57500458px;line-height:1000%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';text-align:start;letter-spacing:3.86145949px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#df5555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="217.77531"
+       y="125.5079"
+       id="text5270"
+       sodipodi:linespacing="1000%"
+       transform="scale(1.1287934,0.88590171)"><tspan
+         sodipodi:role="line"
+         id="tspan5276"
+         x="217.77531"
+         y="125.5079">Título de la galería</tspan></text>
   </g>
   <g
      style="display:none"
